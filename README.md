@@ -31,7 +31,7 @@ Visualize your work patterns to help you continuously improve.
 - Supports macOS 14 and above
 
 ### Windows
-- Windows version is coming soon! [Join the waitlist](#windows-waitlist)
+- Windows version is coming soon! [Join the waitlist](https://timelens.suinian.ai/)
 
 ## Support Us
 

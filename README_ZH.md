@@ -30,7 +30,7 @@ TimeLens 结合番茄工作法和 AI 分析，帮助您了解并改善工作习�
 - 支持 macOS 14 及以上版本
 
 ### Windows
-- Windows 版本即将推出！[加入等待名单](#windows-等待名单)
+- Windows 版本即将推出！[加入等待名单](https://timelens.suinian.ai/)
 
 ## 支持我们
 
