@@ -2,7 +2,7 @@
 
 [English Version](README.md)
 
-![TimeLens Logo](./timelens.png)
+<img src="./timelens.png" alt="TimeLens Logo" width="128"/>
 
 TimeLens 结合番茄工作法和 AI 分析，帮助您了解并改善工作习惯，实现真正高效的专注。
 
@@ -26,7 +26,7 @@ TimeLens 结合番茄工作法和 AI 分析，帮助您了解并改善工作习�
 ## 安装
 
 ### Mac
-- 在[这里](https://pub-35df4ec7af2a4525ae78f4d19470e429.r2.dev/TimeLens.zip)下载最新的 Mac 版本
+- 在[这里](https://timelens.suinian.ai/)下载最新的 Mac 版本
 - 支持 macOS 14 及以上版本
 
 ### Windows
@@ -38,11 +38,7 @@ TimeLens 结合番茄工作法和 AI 分析，帮助您了解并改善工作习�
 您的支持有助于 TimeLens 的运营和改进。每一杯都很重要！[请我喝杯咖啡](https://buy.stripe.com/28o6oq1xz4AXeY04gi)
 
 ### 提出功能建议
-有让 TimeLens 变得更好的想法吗？我们很乐意听到！[提出功能建议](https://github.com/suinian-ai/timelens/issues)
-
-## Windows 等待名单
-
-通过发送邮件至 [your-email@example.com](mailto:your-email@example.com)，主题为 "Windows 等待名单"，加入 Windows 版本的等待名单。
+有让 TimeLens 变得更好的想法吗？我们很乐意听到！ 你可以在 github issues里面写下你的建议。
 
 ## 联系我们
 
@@ -50,11 +46,3 @@ TimeLens 结合番茄工作法和 AI 分析，帮助您了解并改善工作习�
 - [Twitter](https://x.com/suinianai)
 - [小红书](https://www.xiaohongshu.com/user/profile/62528d730000000010007c9e)
 
-## 隐私和条款
-
-- [隐私政策](link_to_your_privacy_policy)
-- [使用条款](link_to_your_terms_of_use)
-
-## 版权
-
-© 2024 suinian Inc. 保留所有权利。

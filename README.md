@@ -1,9 +1,9 @@
 # TimeLens
 
-[中文版本](README_zh.md)
+[中文版本](README_ZH.md)
 
 
-![TimeLens Logo](./timelens.png)
+<img src="./timelens.png" alt="TimeLens Logo" width="128"/>
 
 TimeLens combines the Pomodoro technique with AI analysis to help you understand and improve your work habits, achieving true, efficient focus.
 
@@ -27,7 +27,7 @@ Visualize your work patterns to help you continuously improve.
 ## Installation
 
 ### Mac
-- Download the latest version for Mac [here](https://pub-35df4ec7af2a4525ae78f4d19470e429.r2.dev/TimeLens.zip)
+- Download the latest version for Mac [here](https://timelens.suinian.ai/)
 - Supports macOS 14 and above
 
 ### Windows
@@ -39,23 +39,10 @@ Visualize your work patterns to help you continuously improve.
 Your support helps keep TimeLens running and improving. Every cup counts! [Buy me a coffee](https://buy.stripe.com/28o6oq1xz4AXeY04gi)
 
 ### Suggest a Feature
-Have an idea to make TimeLens even better? We'd love to hear it! [Suggest a feature](https://github.com/suinian-ai/timelens/issues)
-
-## Windows Waitlist
-
-Join the Windows version waitlist by sending an email to [your-email@example.com](mailto:your-email@example.com) with the subject "Windows Waitlist".
+Have an idea to make TimeLens even better? We'd love to hear it! you can write down you suggest in the github isssue.
 
 ## Connect With Us
 
 - [GitHub](https://github.com/suinian-ai/timelens)
 - [Twitter](https://x.com/suinianai)
 - [小红书](https://www.xiaohongshu.com/user/profile/62528d730000000010007c9e)
-
-## Privacy & Terms
-
-- [Privacy Policy](link_to_your_privacy_policy)
-- [Terms of Use](link_to_your_terms_of_use)
-
-## Copyright
-
-© 2024 suinian Inc. All rights reserved.
