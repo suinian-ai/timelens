@@ -1,6 +1,9 @@
 # TimeLens
 
-![TimeLens Logo](path_to_your_logo.png)
+[中文版本](README_zh.md)
+
+
+![TimeLens Logo](./timelens.png)
 
 TimeLens combines the Pomodoro technique with AI analysis to help you understand and improve your work habits, achieving true, efficient focus.
 
